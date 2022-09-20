@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jmarkzcod8r
-- 👀 I’m interested in ... Web automation for clients
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... Web Development and Automation
+- 🌱 I’m currently learning ... Full Stack Web Development
+- 🌱 I'm quite agile with ... Python, Javascript, React, Html, Css, React Bootstrap, Nextjs, Django, Php
 - 💞️ I’m looking to collaborate on ... business related projects for individuals
 - 📫 How to reach me ... You can email me at jmgutierrez122091@gmail.com
 
